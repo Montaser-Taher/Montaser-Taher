@@ -10,7 +10,7 @@ About Me:
 Interests:
 - Mobile Apps, and AI/ML.
 
-
+contact me:
 - 💬 Open to: Collaborations, Internships, and Networking.
 - 📫 Contact: montasertaher20@gmail.com
 
@@ -19,4 +19,5 @@ Skills:
 - Tools: Git, VS Code, MySQL
 
 
--  Always up for a coding challenge or hackathon!
+
+   Always up for a coding challenge or hackathon!
