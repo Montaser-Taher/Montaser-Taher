@@ -6,7 +6,9 @@ About Me:
 -  Junior Developer: Enthusiastic about learning and growing in the tech world.
 -  Currently Learning: New programming languages, frameworks, and best practices.
 -  Looking for Internships: Eager to gain real-world experience and contribute to meaningful projects.
--  Interests: Mobile Apps, and AI/ML.
+
+Interests:
+- Mobile Apps, and AI/ML.
 
 
 - 💬 Open to: Collaborations, Internships, and Networking.
