@@ -1,14 +1,21 @@
 
-I'm a Junior Developer currently studying Software Development at the University of Malta. 🌍🎓
+Junior Developer | B.Sc. (Hons) in Software Development 
+📍 Based in Malta | 🌍🎓 University of Malta. 
 
 About Me:
--  University of Malta: Pursuing a degree in Software Development.
--  Junior Developer: Enthusiastic about learning and growing in the tech world.
--  Currently Learning: New programming languages, frameworks and best practices.
--  Looking for Internships: Eager to gain real-world experience and contribute to meaningful projects.
+-  currently pursuing a Bachelor’s degree in Software Development at the University of Malta.
+-  Enthusiastic about learning and growing in the tech world.
+-  Building practical projects to strengthen my technical and problem-solving skills
+-  Looking for Internships to Eager to gain real-world experience and contribute to meaningful projects.
 
 Interests:
-- Mobile Apps, and AI/ML.
+- Artificial Intelligence & Machine Learnining
+- EEG Signal Processing & Biomedical AI
+- Software Design & Architecture
+- Data Science & Analytics
+- Mobile App Development
+
+
 
 contact me:
 - 💬 Open to: Collaborations, Internships, and Networking.
