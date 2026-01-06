@@ -23,7 +23,7 @@ contact me:
 - 📫 Contact: montasertaher20@gmail.com
 
 Skills:
-- Languages: Python, Java  , HTML/CSS, SQL
+- Languages: Python, Javascript  , HTML/CSS, SQL
 - Tools: Git, VS Code, PostgreSQL ( pgAdmin) , Android  studio ,
 
 
