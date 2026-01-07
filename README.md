@@ -15,15 +15,15 @@ Interests:
 - Data Science & Analytics
 - Mobile App Development
 
-
+Skills:
+- Languages: Python, Javascript  , HTML/CSS, SQL
+- Tools: Git, VS Code, PostgreSQL ( pgAdmin) , Android  studio 
 
 contact me:
 -  Open for: Collaborations, Internships, and Networking.
 -  Contact: montasertaher20@gmail.com
 
-Skills:
-- Languages: Python, Javascript  , HTML/CSS, SQL
-- Tools: Git, VS Code, PostgreSQL ( pgAdmin) , Android  studio ,
+
 
 
 
