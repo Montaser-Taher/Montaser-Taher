@@ -7,7 +7,6 @@ About Me:
 -  currently pursuing a Bachelor’s degree in Software Development at the University of Malta.
 -  Enthusiastic about learning and growing in the tech world.
 -  Building practical projects to strengthen my technical and problem-solving skills
--  Looking for Internships to Eager to gain real-world experience and contribute to meaningful projects.
 
 Interests:
 - Artificial Intelligence & Machine Learnining
