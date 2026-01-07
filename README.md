@@ -1,7 +1,7 @@
 
 Junior Developer | B.Sc. (Hons) in Software Development 
 
-📍 Based in Malta | University of Malta 🌍🎓
+📍 Based in Malta | University of Malta 
 
 About Me:
 -  currently pursuing a Bachelor’s degree in Software Development at the University of Malta.
@@ -19,8 +19,8 @@ Interests:
 
 
 contact me:
-- 💬 Open to: Collaborations, Internships, and Networking.
-- 📫 Contact: montasertaher20@gmail.com
+-  Open for: Collaborations, Internships, and Networking.
+-  Contact: montasertaher20@gmail.com
 
 Skills:
 - Languages: Python, Javascript  , HTML/CSS, SQL
@@ -28,4 +28,4 @@ Skills:
 
 
 
-   Always up for a coding challenge or hackathon!
+
