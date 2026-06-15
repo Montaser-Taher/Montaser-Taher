@@ -1,12 +1,11 @@
 
-Junior Developer | B.Sc. (Hons) in Software Development 
+ B.Sc. (Hons) in Software Development 
 
-📍 Based in Malta | University of Malta 
+ Based in Malta 
 
 About Me:
--  currently pursuing a Bachelor’s degree in Software Development at the University of Malta.
--  Enthusiastic about learning and growing in the tech world.
--  Building practical projects to strengthen my technical and problem-solving skills
+
+Bachelor’s degree graduate in Software Development from the University of Malta, with a strong interest in software engineering, mobile application development, artificial intelligence, and machine learning. Passionate about continuous learning and building practical projects that enhance technical, analytical, and problem-solving skills while creating real-world solutions.
 
 Interests:
 - Artificial Intelligence & Machine Learnining
@@ -20,8 +19,7 @@ Skills:
 - Tools: Git, VS Code, PostgreSQL ( pgAdmin) , Android  studio 
 
 contact me:
--  Open for: Collaborations, Internships, and Networking.
--  Contact: montasertaher20@gmail.com
+-  montasertaher20@gmail.com
 
 
 
